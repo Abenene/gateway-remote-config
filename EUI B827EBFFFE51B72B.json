@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE51B72B",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 41.61448161,
+    "ref_longitude": 2.08455047,
+    "ref_altitude": 300,
+    "contact_email": "ea3abn@ea3abn.com",
+    "description": "EA3ABN LoRa Castellar del Valles"
+  }
+}
